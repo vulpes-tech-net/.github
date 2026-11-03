@@ -1,6 +1,6 @@
 # Vulpes Tech
 
-A software development team from Ukraine, led by a medical doctor. We build websites, healthcare software and AI automation, and we take over projects other teams didn't finish.
+A software development team, led by a medical doctor. We build websites, healthcare software and AI automation, and we take over projects other teams didn't finish.
 
 - **Websites and online stores** with live price calculators, payments and delivery
 - **Healthcare software**: patient portals, clinic workflows, Software as a Medical Device
